@@ -2,10 +2,14 @@
 ignore:
   - "/README.md"
   - '/*.sh'
+  - "slides/README.md"
+  - "backup/*"
+  - "posts/post-1.md"
 
 site:
-  title: "Michael Sammler's Homepage"
-  description: blog
-  base_url: https://people.mpi-sws.org/~msammler/
-posts:
-  rss: rss.xml
+  title: "João Pereira's Homepage"
+  #description: João's website
+  #base_url: 
+
+#posts:
+  #rss: rss.xml
