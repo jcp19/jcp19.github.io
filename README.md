@@ -1,2 +1,2 @@
 # homepage
-personal academic website
+personal academic website, based on Michael Sammler's

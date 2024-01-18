@@ -1,0 +1,11 @@
+
+ignore:
+  - "/README.md"
+  - '/*.sh'
+
+site:
+  title: "Michael Sammler's Homepage"
+  description: blog
+  base_url: https://people.mpi-sws.org/~msammler/
+posts:
+  rss: rss.xml
