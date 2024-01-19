@@ -27,6 +27,7 @@ body {
         ". publications ."
         ". thesis ."
         ". talks ."
+        ". students ."
         ". awards ."
         ". blog ."
         ". footer .";
@@ -89,6 +90,18 @@ body {
 }
 
 .talks > ul > li:not(:last-child) {
+    margin-bottom: 1em;
+}
+
+.students {
+    grid-area: students;
+}
+.students > ul {
+    list-style-type: disc;
+    padding-left: 1em;
+}
+
+.students > ul > li:not(:last-child) {
     margin-bottom: 1em;
 }
 
