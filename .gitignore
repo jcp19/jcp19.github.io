@@ -3,3 +3,4 @@
 *.sass.map
 *.scss.map
 _site
+.DS_Store
