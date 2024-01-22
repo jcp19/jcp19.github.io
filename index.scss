@@ -27,8 +27,9 @@ body {
         ". publications ."
         // ". thesis ."
         ". talks ."
+        ". teaching ."
         ". students ."
-        ". awards ."
+        // ". awards ."
         ". blog ."
         ". footer .";
 }
@@ -102,6 +103,18 @@ body {
 }
 
 .students > ul > li:not(:last-child) {
+    margin-bottom: 1em;
+}
+
+.teaching {
+    grid-area: teaching;
+}
+.teaching > ul {
+    list-style-type: disc;
+    padding-left: 1em;
+}
+
+.teaching > ul > li:not(:last-child) {
     margin-bottom: 1em;
 }
 
