@@ -7,7 +7,7 @@ ignore:
   - "posts/post-1.md"
 
 site:
-  title: "João Pereira's Homepage"
+  title: "João Pereira"
   #description: João's website
   #base_url: 
 
